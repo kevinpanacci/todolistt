@@ -1,5 +1,5 @@
 INSTALLATION
-$ git clone https://github.com/GianluigiVitale/BoolBnB.git
+
 $ composer install
 $ npm install
 $ cp .env.example .env
